@@ -1,31 +1,7 @@
-# Prelude
-
-> Role models are important. <br/>
-> -- Officer Alex J. Murphy / RoboCop
-
-One thing has always bothered me as a Ruby developer - Python developers have a
-great programming style reference
-([PEP-8][]) and we never got an official
-guide, documenting Ruby coding style and best practices. And I do believe that
-style matters. I also believe that a great hacker community, such as Ruby has,
-should be quite capable of producing this coveted document.
-
-This guide started its life as our internal company Ruby coding guidelines
-(written by yours truly). At some point I decided that the work I was doing
-might be interesting to members of the Ruby community in general and that the
-world had little need for another internal company guideline. But the world
-could certainly benefit from a community-driven and community-sanctioned set of
-practices, idioms and style prescriptions for Ruby programming.
-
-Since the inception of the guide I've received a lot of feedback from members of
-the exceptional Ruby community around the world. Thanks for all the suggestions
-and the support! Together we can make a resource beneficial to each and every
-Ruby developer out there.
+# The Ruby Style Guide
 
 By the way, if you're into Rails you might want to check out the complementary
 [Ruby on Rails Style Guide][rails-style-guide].
-
-# The Ruby Style Guide
 
 This Ruby style guide recommends best practices so that real-world Ruby
 programmers can write code that can be maintained by other real-world Ruby
